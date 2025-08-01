@@ -1,6 +1,6 @@
-# Hey there, I'm FortiBBrine! 👋
+# Hey there, I'm FortiBrine! 👋
 
-I'm [FortiBBrine](https://github.com/FortiBBrine), a passionate Java/Kotlin Backend and Frontend Developer. I specialize in building robust backend systems and dynamic frontend interfaces using modern design patterns like Dependency Injection, Factory, Builder, DAO, and DTO.
+I'm [FortiBrine](https://github.com/FortiBrine), a passionate Java/Kotlin Backend and Frontend Developer. I specialize in building robust backend systems and dynamic frontend interfaces using modern design patterns like Dependency Injection, Factory, Builder, DAO, and DTO.
 
 ## About Me
 - **Profession**: Java/Kotlin Backend Developer + Frontend Developer
