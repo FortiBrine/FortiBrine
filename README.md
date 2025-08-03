@@ -34,9 +34,9 @@ In addition to my core development skills, I have experience in Minecraft plugin
 ![PlaceholderAPI](https://img.shields.io/badge/PlaceholderAPI-20B2AA?style=for-the-badge&logoColor=white)
 
 ## GitHub Stats
-![FortiBBrine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FortiBBrine&show_icons=true&theme=dracula)
+![FortiBBrine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FortiBrine&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FortiBBrine&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FortiBrine&layout=compact&theme=dracula)
 
 ## Contact
 - **Website**: Coming soon at [fortibrine.cc](https://fortibrine.cc) 
